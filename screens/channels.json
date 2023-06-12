@@ -2,7 +2,7 @@
   "channels": [
     {
       "manifestPath": "/content/screens/menus/snack-sprint.manifest.json",
-      "lastModified": "2023-06-12T09:43:01.755Z",
+      "lastModified": "2023-06-12T09:43:08.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -16,6 +16,23 @@
       "externalId": "/content/screens/menus/snack-sprint",
       "title": "Snack Sprint",
       "liveUrl": "https://main--temp-v1--shrotia.hlx.live/content/screens/menus/snack-sprint.html"
+    },
+    {
+      "manifestPath": "/content/screens/menus/snack-sprint-v2.manifest.json",
+      "lastModified": "2023-06-12T09:58:19.358Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "menus",
+          "path": "/content/screens/menus"
+        }
+      ],
+      "externalId": "/content/screens/menus/snack-sprint-v2",
+      "title": "Snack Sprint",
+      "liveUrl": "https://main--temp-v1--shrotia.hlx.live/content/screens/menus/snack-sprint-v2.html"
     }
   ],
   "metadata": {
