@@ -9,11 +9,11 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1686564049003,
+  "timestamp": 1686564049383,
   "entries": [
     {
-      "path": "/content/screens/menus/snack-sprint-v2.html",
-      "timestamp": 1686563906000
+      "path": "/content/screens/menus/breakfast/juices.html",
+      "timestamp": 1686564049168
     },
     {
       "path": "/scripts/lib-franklin.js",
@@ -28,24 +28,28 @@
       "timestamp": 1686545517000
     },
     {
-      "path": "/content/screens/menus/media_17710df9a502f677386e8eec1b0c60148bb497885.png?width=750&format=png&optimize=medium",
+      "path": "/content/screens/menus/breakfast/media_17710df9a502f677386e8eec1b0c60148bb497885.png?width=750&format=png&optimize=medium",
       "hash": "17710df9a502f677386e8eec1b0c60148bb497885"
     },
     {
-      "path": "/content/screens/menus/media_190b9ec985e87e614aad98bae3bfbe2561bf1d322.png?width=750&format=png&optimize=medium",
+      "path": "/content/screens/menus/breakfast/media_190b9ec985e87e614aad98bae3bfbe2561bf1d322.png?width=750&format=png&optimize=medium",
       "hash": "190b9ec985e87e614aad98bae3bfbe2561bf1d322"
     },
     {
-      "path": "/content/screens/menus/media_181ef83f3ed9d5b5202eb3ad649d69e494ff27efb.png?width=750&format=png&optimize=medium",
+      "path": "/content/screens/menus/breakfast/media_181ef83f3ed9d5b5202eb3ad649d69e494ff27efb.png?width=750&format=png&optimize=medium",
       "hash": "181ef83f3ed9d5b5202eb3ad649d69e494ff27efb"
     },
     {
-      "path": "/content/screens/menus/media_10489d9062e0997af3bc5085fcd4139df1bd6b380.png?width=750&format=png&optimize=medium",
+      "path": "/content/screens/menus/breakfast/media_10489d9062e0997af3bc5085fcd4139df1bd6b380.png?width=750&format=png&optimize=medium",
       "hash": "10489d9062e0997af3bc5085fcd4139df1bd6b380"
     },
     {
-      "path": "/content/screens/menus/media_190b68d675516ddeba78b98713d9a2604198e013e.png?width=750&format=png&optimize=medium",
+      "path": "/content/screens/menus/breakfast/media_190b68d675516ddeba78b98713d9a2604198e013e.png?width=750&format=png&optimize=medium",
       "hash": "190b68d675516ddeba78b98713d9a2604198e013e"
+    },
+    {
+      "path": "/content/screens/menus/breakfast/media_176295fe121adff5f21098ece511eda76ce83927a.jpeg?width=750&format=jpeg&optimize=medium",
+      "hash": "176295fe121adff5f21098ece511eda76ce83927a"
     },
     {
       "path": "/scripts/delayed.js",
